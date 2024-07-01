@@ -9,7 +9,11 @@ public class Cat {
 		
 		int b=1;
 		
+
 		int d=1;
+
+		int c=1;
+
 		
 		System.out.println(a);
 		
