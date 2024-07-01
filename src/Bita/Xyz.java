@@ -6,6 +6,7 @@ public class Xyz {
 		
 		
 		int a=1;
+		int b=1;
 		
 		System.out.println("This code is use for pulling");
 		System.out.println("This code is use for pulling");
