@@ -15,7 +15,7 @@ public class Cat {
 		int c=1;
 
 		
-		System.out.println(a);
+		System.out.println(a+b+c+d);
 		
 		
 
